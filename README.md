@@ -1,2 +1,2 @@
-# HooBank - Modern UI/UX website using React.js & Tailwind CSS
+# Hikore - Modern UI/UX website using React.js & Tailwind CSS
 
